@@ -8,12 +8,9 @@ permalink: https://blog.rgm-cloud.io/installation/
 published: true
 post_date: 2019-12-11 23:08:45
 ---
-L'installation de RGM est une installation en "one liner", c'est à dire qu'une seule ligne de commande installe toute la solution.
-<h2>Prérequis</h2>
-Pour installer RGM il est nécessaire d'avoir simplement un système Linux CENTOS 7&nbsp; de base d'installer avec 2 CPU et 8Go de mémoire et 60Go d'espace disque.
-<h2>Installation</h2>
-pour installer RGM il suffit de copier coller la ligne de commande ci-dessous:
+L'installation de RGM est une installation en "one liner", c'est à dire qu'une seule ligne de commande installe toute la solution. 
+## Prérequis Pour installer RGM il est nécessaire d'avoir simplement un système Linux CENTOS 7  de base d'installer avec 2 CPU et 8Go de mémoire et 60Go d'espace disque. 
 
-<code>bash &lt;(curl -k -s&nbsp;https://installer.rgm-cloud.io/rgm-installer.sh) -y</code>
+## Installation pour installer RGM il suffit de copier coller la ligne de commande ci-dessous: 
 
-&nbsp;
+`bash <(curl -k -s&nbsp;https://installer.rgm-cloud.io/rgm-installer.sh) -y`  

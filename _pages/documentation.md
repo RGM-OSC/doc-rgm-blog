@@ -8,7 +8,11 @@ permalink: https://blog.rgm-cloud.io/documentation/
 published: true
 post_date: 2019-12-14 21:51:27
 ---
-<h1 style="text-align: center;">Documentation RGM</h1>
-<a href="https://blog-rgm.daminoux.fr/installation/">installation</a>
+<h1 style="text-align: center;">
+  Documentation RGM
+</h1>
 
-<a href="https://blog-rgm.daminoux.fr/guide-utilisation/">guide d'utilisation</a>
+[installation][1] [guide d'utilisation][2]
+
+ [1]: https://blog-rgm.daminoux.fr/installation/
+ [2]: https://blog-rgm.daminoux.fr/guide-utilisation/

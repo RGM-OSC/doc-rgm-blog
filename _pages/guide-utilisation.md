@@ -9,6 +9,4 @@ permalink: >
 published: true
 post_date: 2019-12-10 23:00:05
 ---
-<p>
-	Guide d&#39;utilisation en cours de r&eacute;dation...
-</p>
+Guide d'utilisation en cours de rédation...
