@@ -14,7 +14,7 @@ Le processus d'installation proprement dit peut-être entièrement automatisée 
 
 # Pour les pressés
 
-Si vous êtes pressé, ouvrez un terminal sur votre serveur en tant qu'utilisateur **root**, puis copiez-collez la ligne suivante :
+Si vous êtes pressé, ouvrez un terminal sur votre serveur en tant qu'utilisateur **root**, puis copiez-collez la ligne suivante ([one-liner](#le-one-liner)):
 ```shell
 bash <(curl -k https://installer.rgm-cloud.io/rgm-installer.sh) -y
 ```
@@ -26,6 +26,7 @@ Maintenant, servez-vous un bon café, et pendant que *RGM* s'occupe de tout, vou
 ## Prérequis
 
 *RGM* peut être installé sur tout serveur X86_64, bare-metal ou VM ou même sur le Cloud, qu'il soit publique ou privé. Le matériel doit fournir à minima:
+
 | ressource      | minimum | recommandé |
 |----------------|---------|------------|
 | CPU            | 2       | 4 (*)      |
@@ -59,40 +60,46 @@ Pour plus de détails, se reporter aux documentations de nos composants *Ansible
 
 # Installation
 
-## le one-liner
+## le *one-liner*
 
-Nous proposons un *one-liner* afin d'installer en une simple ligne de commande RGM.
+Nous proposons un *one-liner* afin d'installer en une unique ligne de commande *RGM*.
 
-Qu'est-ce qu'un *one-liner* ? Il s'agit d'un script bash, téléchargeable depuis nos serveurs de déploiement, qui se charge du *bootstrap* des prérequis à *RGM* et de lancer sont installation.
+Qu'est-ce qu'un *one-liner* ? Il s'agit d'un script **bash**, téléchargeable depuis nos serveurs de déploiement, qui se charge du *bootstrap* des prérequis à *RGM* et de lancer l'installation.
 
 Concrètement les actions effectuées sont les suivantes:
-- vérification de la conformité matérielle de la plate-forme avec les pré-requis matériels de *RGM*,
+- vérification de la conformité matérielle de la plate-forme avec les [prérequis de *RGM*](#Prérequis),
 - configuration et activation des dépôts [EPEL du projet Fedora](https://fedoraproject.org/wiki/EPEL),
 - configuration et activation des dépôts [RGM-community](https://community.repo.rgm-cloud.io) et [RGM](https://repo.rgm-cloud.io),
 - installation de la clé GPG de signature des dépôts *RGM*,
 - dans le cadre d'un contrat **business**, installation du certificat client,
 - installation des paquets **RPM** nécessaire au *bootstraping* de *RGM* (git, ansible, et leurs dépendances),
-- détection et auto-partitionnement du disque de données
-- clonage du dépôt **git** du [playbook d'installation de RGM ](https://github.com/RGM-OSC/ansible-playbook-rgm-installer), et exécution de ce dernier.
+- détection et auto-partitionnement du disque de données **si un disque non partitionné est détecté**,
+- clônage du dépôt **git** du [playbook d'installation de RGM ](https://github.com/RGM-OSC/ansible-playbook-rgm-installer), et exécution de ce dernier.
 
 Dans sa plus simple expression, l'installation de *RGM* se résume à invoquer la commande suivante:
 ```shell
 bash <(curl -k https://installer.rgm-cloud.io/rgm-installer.sh) -y
 ```
 - la commande `curl` télécharge le script *bash* d'installation,
-- la commande `bash` execute directement le script téléchargé,
-- on peut éventuellement passer des options au script afin de personnaliser l'installation.
+- la commande `bash` exécute directement le script téléchargé,
+- on peut éventuellement passer des paramètres au script afin de personnaliser l'installation.
 
-Les arguments supportées par le script :
+Les arguments supportés par le script :
+
 | cmd | param                      | description |
 |-----|----------------------------|-------------|
-| -h  |  *n/a*                     | affiche un message d'aide avec les options disponibles |
+| -h  |  *n/a*                     | affiche un message d'aide des différentes options disponibles |
 | -y  |  *n/a*                     | désactive le mode interactif et repond **oui** à toutes les questions |
 | -b  |  *n/a*                     | désactive la vérification de conformité matérielle. à vos risques et périls ! |
 | -u  |  *n/a*                     | désactive l'auto-partitionnement de disque |
 | -d  |  *n/a*                     | installe la version **développeur** en lieu et place de la version de production |
-| -n  |  *n/a*                     | le one-liner s'arrête **avant** l'exécution du playbook ansible. Utile pour *bootstraper* l'environement d'installation et modifier des variables *ansible* avant de procéder à l'installation de *RGM* |
+| -n  |  *n/a*                     | le one-liner s'arrête **avant** l'exécution du playbook ansible. Utile pour *bootstraper* l'environement d'installation et adapter la configuration *ansible* avant de procéder à l'installation de *RGM* |
 | -e  | *chaîne de caractères*     | permet de passer des **extra_vars** *Ansible* au *playbook* d'installation |
 | -p  | <proxy_host:proxy_port>    | specifie un *proxy HTTP*. la variable d'environement système **http_proxy** sera mise à jour, ainsi que la configuration système de **yum** |
 | -c  | *nom d'instance*           | Dans le cas d'un installation **business**, permet de spécifier le nom d'identification de l'instance cliente |
 | -o  | 'oracle', 'vmware', 'java' | active l'installation de paquets logiciels soumis à license commerciales. **l'installation de ces logiciels vaut acceptation des licenses associées !** |
+
+## Ansible
+
+Si vous souhaitez intégrer l'installation de RGM directement dans vos processes de déploiement, vous pouvez réutiliser directement notre [rôle ansible RGM](https://github.com/RGM-OSC/ansible-role-rgm) qui gère l'installation ainsi que la mise à jour.
+
