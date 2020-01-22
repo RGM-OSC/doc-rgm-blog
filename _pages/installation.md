@@ -10,7 +10,7 @@ post_date: 2019-12-11 23:08:45
 ---
 *RGM* s'installe au-dessus une installation minimale de GNU/Linux CentOS 7. Le déploiement de RGM est totalement industrialisé et fait appel à des *rôles* et *playbooks* **Ansible**.
 
-Le processus d'installation proprement dit peut-être entièrement automatisée par l'exécution de notre [one-liner](https://installer.rgm-cloud.io/rgm-installer.sh) en tant qu'utilisateur **root**, ou peut-être intégré à vos propres processes via la réutilisation de nos *rôles* et *playbooks* **Ansible**.
+Le processus d'installation proprement dit peut-être entièrement automatisé par l'exécution de notre [one-liner](https://installer.rgm-cloud.io/rgm-installer.sh) en tant qu'utilisateur **root**, ou peut-être intégré à vos propres processes via la réutilisation de nos *rôles* et *playbooks* **Ansible**.
 
 # Pour les pressés
 
@@ -44,7 +44,7 @@ En outre le système cible doit être préalablement correctement configuré dan
 
 ## Eléments de configuration optionnels
 
-Le déroulement du *playbook* **Ansible** d'installation peut être modifié en reseignant un certain nombre de variables. Notamment les éléments suivants:
+Le déroulement du *playbook* **Ansible** d'installation peut être modifié en renseignant un certain nombre de variables. Notamment les éléments suivants:
 - communauté SNMP,
 - liste de serveurs de temps,
 - serveur mandataire HTTP,
@@ -72,7 +72,7 @@ Concrètement les actions effectuées sont les suivantes:
 - configuration et activation des dépôts [RGM-community](https://community.repo.rgm-cloud.io) et [RGM](https://repo.rgm-cloud.io),
 - installation de la clé GPG de signature des dépôts *RGM*,
 - dans le cadre d'un contrat **business**, installation du certificat client,
-- installation des paquets **RPM** nécessaire au *bootstraping* de *RGM* (git, ansible, et leurs dépendances),
+- installation des paquets **RPM** nécessaires au *bootstraping* de *RGM* (git, ansible, et leurs dépendances),
 - détection et auto-partitionnement du disque de données **si un disque non partitionné est détecté**,
 - clônage du dépôt **git** du [playbook d'installation de RGM ](https://github.com/RGM-OSC/ansible-playbook-rgm-installer), et exécution de ce dernier.
 
@@ -89,17 +89,17 @@ Les arguments supportés par le script :
 | cmd | param                      | description |
 |-----|----------------------------|-------------|
 | -h  |  *n/a*                     | affiche un message d'aide des différentes options disponibles |
-| -y  |  *n/a*                     | désactive le mode interactif et repond **oui** à toutes les questions |
+| -y  |  *n/a*                     | désactive le mode interactif et répond **oui** à toutes les questions |
 | -b  |  *n/a*                     | désactive la vérification de conformité matérielle. à vos risques et périls ! |
 | -u  |  *n/a*                     | désactive l'auto-partitionnement de disque |
 | -d  |  *n/a*                     | installe la version **développeur** en lieu et place de la version de production |
-| -n  |  *n/a*                     | le one-liner s'arrête **avant** l'exécution du playbook ansible. Utile pour *bootstraper* l'environement d'installation et adapter la configuration *ansible* avant de procéder à l'installation de *RGM* |
+| -n  |  *n/a*                     | le one-liner s'arrête **avant** l'exécution du playbook ansible. Utile pour *bootstraper* l'environnement d'installation et adapter la configuration *ansible* avant de procéder à l'installation de *RGM* |
 | -e  | *chaîne de caractères*     | permet de passer des **extra_vars** *Ansible* au *playbook* d'installation |
-| -p  | <proxy_host:proxy_port>    | specifie un *proxy HTTP*. la variable d'environement système **http_proxy** sera mise à jour, ainsi que la configuration système de **yum** |
+| -p  | <proxy_host:proxy_port>    | spécifie un *proxy HTTP*. la variable d'environnement système **http_proxy** sera mise à jour, ainsi que la configuration système de **yum** |
 | -c  | *nom d'instance*           | Dans le cas d'un installation **business**, permet de spécifier le nom d'identification de l'instance cliente |
-| -o  | 'oracle', 'vmware', 'java' | active l'installation de paquets logiciels soumis à license commerciales. **l'installation de ces logiciels vaut acceptation des licenses associées !** |
+| -o  | 'oracle', 'vmware', 'java' | active l'installation de paquets logiciels soumis à licence commerciale. **l'installation de ces logiciels vaut acceptation des licences associées !** |
 
 ## Ansible
 
-Si vous souhaitez intégrer l'installation de RGM directement dans vos processes de déploiement, vous pouvez réutiliser directement notre [rôle ansible RGM](https://github.com/RGM-OSC/ansible-role-rgm) qui gère l'installation ainsi que la mise à jour.
+Si vous souhaitez intégrer l'installation de RGM directement à vos procédures de déploiement, vous pouvez réutiliser directement notre [rôle ansible RGM](https://github.com/RGM-OSC/ansible-role-rgm) qui gère l'installation ainsi que la mise à jour.
 
