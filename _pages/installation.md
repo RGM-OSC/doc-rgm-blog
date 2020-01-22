@@ -25,13 +25,13 @@ Maintenant, servez-vous un bon café, et pendant que *RGM* s'occupe de tout, vou
 
 ## Prérequis
 
-*RGM* peut être installé sur tout serveur X86_64, bare-metal ou VM ou même sur le Cloud, qu'il soit publique ou privé. Le matériel doit fournir à minima:
+*RGM* peut être installé sur tout serveur X86_64, bare-metal ou VM ou même sur le Cloud, qu'il soit public ou privé. Le matériel doit fournir à minima:
 
 | ressource      | minimum | recommandé |
 |----------------|---------|------------|
 | CPU            | 2       | 4 (*)      |
 | RAM            | 4 GB    | 8 GB (*)   |
-| Disque systeme | 20 GB   | 40 GB      |
+| Disque système | 20 GB   | 40 GB      |
 | Disque données | 50 GB   | 150 GB (*) |
 
 (*) La configuration recommandée peut varier en fonction du parc SI à superviser.
