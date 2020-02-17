@@ -10,5 +10,9 @@ post_date: 2019-12-14 21:51:27
 ---
 # Documentation RGM
 
-1. [installation](/installation/)
-2. [guide d'utilisation](/guide-utilisation/)
+1.  [installation][1]
+2.  [guide d'utilisation][2]
+3.  [Ajout d'un "Host" dans RGM][2]
+
+ [1]: /installation/
+ [2]: /guide-utilisation/
