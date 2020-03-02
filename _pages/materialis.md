@@ -66,7 +66,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                Accès direct à l'ensemble de la documentation RGM
+                Accès direct à l’ensemble de la documentation RGM
               </p>
             </div>
           </div>
@@ -85,7 +85,7 @@ post_date: 2020-03-02 09:09:05
     <div  class="row middle-sm text-center">
       <div  class="col-sm-5 space-bottom-xs" data-type="column">
         <h5  class="">
-          LOREM IPSUM DOLOR
+          RGM à tout pour plaire...
         </h5>
         
         <h2  class="">
@@ -93,14 +93,14 @@ post_date: 2020-03-02 09:09:05
         </h2>
         
         <p  class="">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Les « Ops » ont de la visibilité sur l’infrastructure <br /> « On-permise et Cloud ». <br />Les « Devs » peuvent ajouter leurs métriques et mesurer ce qui a de la valeur : Codes HTTP, latence par page, déploiements d’application… <br />
         </p>
         
         <a  class="button big color1 mdc-ripple-upgraded" href="#">GET STARTED NOW</a>
       </div>
       
       <div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom">
-        <img class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/02/cropped-kibana_1.png" /> <img class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-tbd_system_metrics.png" />
+        <img class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-disp_esx-1.png" /> <img class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-tbd_system_metrics.png" />
       </div>
     </div>
   </div>
