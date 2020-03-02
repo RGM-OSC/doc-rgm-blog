@@ -22,11 +22,11 @@ post_date: 2020-03-02 09:09:05
             
             <div  class="col-xs-12 col-sm" data-type="column">
               <h4  class="color-black">
-                RESPONSIVE DESIGN
+                La solution RGM
               </h4>
               
               <p  class="">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                RGM est une plateforme d’Hypervision qui réunit et simplifie la mise en œuvre des logiciels libres les plus pertinents pour piloter les architectures : Legacy, Cloud et Serverless
               </p>
             </div>
           </div>
@@ -37,12 +37,12 @@ post_date: 2020-03-02 09:09:05
         <div  class="card mdc-elevation--z3 row-card">
           <div  class="row">
             <div  class="col-xs-12 col-sm-fit icon-col" data-fixed="true">
-              <i  class="color1 icon mdi mdi-vector-square reverse round big"></i>
+              <i  class="color1 icon mdi mdi-projector-screen reverse round big"></i>
             </div>
             
             <div  class="col-xs-12 col-sm" data-type="column">
               <h4  class="color-black">
-                SUPER FEATURES
+                Galerie
               </h4>
               
               <p  class="">
@@ -62,7 +62,7 @@ post_date: 2020-03-02 09:09:05
             
             <div  class="col-xs-12 col-sm" data-type="column">
               <h4  class="color-black">
-                DRAG AND DROP
+                Documentation
               </h4>
               
               <p  class="">
@@ -100,7 +100,7 @@ post_date: 2020-03-02 09:09:05
       </div>
       
       <div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom">
-        <img class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/02/cropped-kibana_1.png" /> <img class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/computer-2569652.jpg" />
+        <img class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/02/cropped-kibana_1.png" /> <img class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-tbd_system_metrics.png" />
       </div>
     </div>
   </div>
