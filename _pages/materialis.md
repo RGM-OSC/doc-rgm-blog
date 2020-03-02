@@ -26,7 +26,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                RGM est une plateforme d’Hypervision qui réunit et simplifie la mise en œuvre des logiciels libres les plus pertinents pour piloter les architectures : Legacy, Cloud et Serverless
+                RGM est une plateforme d’Hypervision qui réunit et simplifie la mise en œuvre des logiciels libres.
               </p>
             </div>
           </div>
