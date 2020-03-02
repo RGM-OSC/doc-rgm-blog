@@ -26,7 +26,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                RGM est une plateforme d’Hypervision qui réunit et simplifie la mise en œuvre des logiciels libres.
+                RGM est agnostique et flexible. <br />La solution se concentre sur la gestion des versions et sur le le cycle de vie des données
               </p>
             </div>
           </div>
@@ -46,7 +46,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Retrouvez ici une galerie complète des différents tableaux de bord et cartes disponibles avec RGM
               </p>
             </div>
           </div>
@@ -66,7 +66,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Accès direct à l'ensemble de la documentation RGM
               </p>
             </div>
           </div>
