@@ -85,7 +85,7 @@ post_date: 2020-03-02 09:09:05
     <div  class="row middle-sm text-center">
       <div  class="col-sm-5 space-bottom-xs" data-type="column">
         <h5  class="">
-          RGM à tout pour plaire...
+          RGM à tout pour plaire…
         </h5>
         
         <h2  class="">
