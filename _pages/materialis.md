@@ -4,28 +4,28 @@ post_title: Front Page
 author: Samuel RONCIAUX
 post_excerpt: ""
 layout: page
-permalink: https://blog.rgm-cloud.io/materialis/
+permalink: https://blog.rgm-cloud.io/
 published: true
 post_date: 2020-03-02 09:09:05
 ---
 <!-- wp:extendstudio/materialis -->
 
-<div id="overlappable-8"  style="background-color:#f5fafd"  data-label="Overlappable" data-id="overlappable-5-materialis" data-export-id="overlappable-5-materialis" data-category="overlappable" class="overlappable-5-materialis content-section content-section-spacing-large" data-overlap="true">
-  <div class="gridContainer">
-    <div data-type="row" class="row spaced-cols ">
-      <div class="col-xs-12 col-sm-6 col-md-4 ">
-        <div class="card mdc-elevation--z3 row-card">
-          <div class="row">
-            <div class="col-xs-12 col-sm-fit icon-col" data-fixed="true">
-              <i class="color1 icon mdi mdi-responsive reverse round big"></i>
+<div  id="overlappable-8" style="background-color: #f5fafd;" data-label="Overlappable" data-id="overlappable-5-materialis" data-export-id="overlappable-5-materialis" data-category="overlappable" class="overlappable-5-materialis content-section content-section-spacing-large" data-overlap="true">
+  <div  class="gridContainer">
+    <div  data-type="row" class="row spaced-cols ">
+      <div  class="col-xs-12 col-sm-6 col-md-4 ">
+        <div  class="card mdc-elevation--z3 row-card">
+          <div  class="row">
+            <div  class="col-xs-12 col-sm-fit icon-col" data-fixed="true">
+              <i  class="color1 icon mdi mdi-responsive reverse round big"></i>
             </div>
             
-            <div class="col-xs-12 col-sm" data-type="column">
-              <h4 class="color-black">
+            <div  class="col-xs-12 col-sm" data-type="column">
+              <h4  class="color-black">
                 RESPONSIVE DESIGN
               </h4>
               
-              <p class="">
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
@@ -33,19 +33,19 @@ post_date: 2020-03-02 09:09:05
         </div>
       </div>
       
-      <div class="col-xs-12 col-sm-6 col-md-4 ">
-        <div class="card mdc-elevation--z3 row-card">
-          <div class="row">
-            <div class="col-xs-12 col-sm-fit icon-col" data-fixed="true">
-              <i class="color1 icon mdi mdi-vector-square reverse round big"></i>
+      <div  class="col-xs-12 col-sm-6 col-md-4 ">
+        <div  class="card mdc-elevation--z3 row-card">
+          <div  class="row">
+            <div  class="col-xs-12 col-sm-fit icon-col" data-fixed="true">
+              <i  class="color1 icon mdi mdi-vector-square reverse round big"></i>
             </div>
             
-            <div class="col-xs-12 col-sm" data-type="column">
-              <h4 class="color-black">
+            <div  class="col-xs-12 col-sm" data-type="column">
+              <h4  class="color-black">
                 SUPER FEATURES
               </h4>
               
-              <p class="">
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
@@ -53,19 +53,19 @@ post_date: 2020-03-02 09:09:05
         </div>
       </div>
       
-      <div class="col-xs-12 col-sm-6 col-md-4 ">
-        <div class="card mdc-elevation--z3 row-card">
-          <div class="row">
-            <div class="col-xs-12 col-sm-fit icon-col" data-fixed="true">
-              <i class="color1 icon mdi mdi-arrange-bring-forward reverse round big"></i>
+      <div  class="col-xs-12 col-sm-6 col-md-4 ">
+        <div  class="card mdc-elevation--z3 row-card">
+          <div  class="row">
+            <div  class="col-xs-12 col-sm-fit icon-col" data-fixed="true">
+              <i  class="color1 icon mdi mdi-arrange-bring-forward reverse round big"></i>
             </div>
             
-            <div class="col-xs-12 col-sm" data-type="column">
-              <h4 class="color-black">
+            <div  class="col-xs-12 col-sm" data-type="column">
+              <h4  class="color-black">
                 DRAG AND DROP
               </h4>
               
-              <p class="">
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
@@ -80,27 +80,27 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="about-6"  style="background-color:#f5fafd"  data-label="About" data-id="about-4" data-export-id="about-4" data-category="about" class="about-4 content-section content-section-spacing-large">
-  <div class="gridContainer">
-    <div class="row middle-sm text-center">
-      <div class="col-sm-5 space-bottom-xs " data-type="column">
-        <h5>
+<div  id="about-6" style="background-color: #f5fafd;" data-label="About" data-id="about-4" data-export-id="about-4" data-category="about" class="about-4 content-section content-section-spacing-large">
+  <div  class="gridContainer">
+    <div  class="row middle-sm text-center">
+      <div  class="col-sm-5 space-bottom-xs" data-type="column">
+        <h5  class="">
           LOREM IPSUM DOLOR
         </h5>
         
-        <h2>
-          Enjoy the best <br /> <span style="font-family:Playfair Display,sans-serif;font-weight:700;font-style:italic;" href="#">design and functions</span> combined together
+        <h2  class="">
+          Enjoy the best <br /> <span  style="font-family: Playfair Display,sans-serif; font-weight: 700; font-style: italic;" href="#">design and functions</span> combined together
         </h2>
         
-        <p>
+        <p  class="">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </p>
         
-        <a class="button big color1" href="#">GET STARTED NOW</a>
+        <a  class="button big color1 mdc-ripple-upgraded" href="#">GET STARTED NOW</a>
       </div>
       
-      <div class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom">
-        <img class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/apple-1838564.jpg" /> <img class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/computer-2569652.jpg" />
+      <div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom">
+        <img class="img-1 rounded mdc-elevation--z10" data-size="250x200" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/02/cropped-kibana_1.png" /> <img class="img-2 rounded mdc-elevation--z10" data-size="220x170" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/computer-2569652.jpg" />
       </div>
     </div>
   </div>
@@ -110,66 +110,66 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="features-2"  style="background-color:#ffffff"  data-label="Features" data-id="features-10-materialis" data-export-id="features-10-materialis" data-category="features" class="features-10m content-section-spacing-large content-section">
-  <div class="gridContainer">
-    <div class="row">
-      <div class="section-title-col" data-type="column">
-        <h2>
+<div  id="features-2" style="background-color: #ffffff;" data-label="Features" data-id="features-10-materialis" data-export-id="features-10-materialis" data-category="features" class="features-10m content-section-spacing-large content-section">
+  <div  class="gridContainer">
+    <div  class="row">
+      <div  class="section-title-col" data-type="column">
+        <h2  class="">
           The Main Features
         </h2>
         
-        <p>
+        <p  class="">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
         </p>
       </div>
     </div>
     
-    <div class="row ">
-      <div class="col-xs-12 col-md-10 col-md-offset-1">
-        <div class="row space-top spaced-cols content-center-sm" data-type="row" data-max-items="4">
-          <div class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
-            <div class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i class="mdi icon mdi-database big round reverse color1"></i> <h6>
+    <div  class="row ">
+      <div  class="col-xs-12 col-md-10 col-md-offset-1">
+        <div  class="row space-top spaced-cols content-center-sm" data-type="row" data-max-items="4">
+          <div  class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
+            <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
+              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
                 Popular Uses Of The Internet
               </h6>
             </div>
           </div>
           
-          <div class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
-            <div class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i class="mdi icon mdi-database big round reverse color1"></i> <h6>
+          <div  class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
+            <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
+              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
                 How To Meet That Special
               </h6>
             </div>
           </div>
           
-          <div class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
-            <div class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i class="mdi icon mdi-database big round reverse color1"></i> <h6>
+          <div  class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
+            <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
+              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
                 Make Myspace Your Best
               </h6>
             </div>
           </div>
           
-          <div class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
-            <div class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i class="mdi icon mdi-database big round reverse color1"></i> <h6>
+          <div  class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
+            <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
+              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
                 Make Myspace Your Best
               </h6>
             </div>
           </div>
           
-          <div class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-            <div class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i class="mdi icon mdi-database big round reverse color1"></i> <h6>
+          <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
+            <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
+              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
                 Make Myspace Your Best
               </h6>
             </div>
           </div>
           
-          <div class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-            <div class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i class="mdi icon mdi-database big round reverse color1"></i> <h6>
+          <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
+            <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
+              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
                 Make Myspace Your Best
               </h6>
             </div>
@@ -184,27 +184,27 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="content-24"  style="background-color:#f5fafd"  data-label="Content" data-id="content-7-materialis" data-export-id="content-7-materialis" data-category="content" class="content-7m content-section-spacing-large content-section">
-  <div class="gridContainer">
-    <div class="row middle-sm">
-      <div class="col-md-6 col-xs-12 col-sm-6 col-padding-small-xs">
+<div  id="content-24" style="background-color: #f5fafd;" data-label="Content" data-id="content-7-materialis" data-export-id="content-7-materialis" data-category="content" class="content-7m content-section-spacing-large content-section">
+  <div  class="gridContainer">
+    <div  class="row middle-sm">
+      <div  class="col-md-6 col-xs-12 col-sm-6 col-padding-small-xs">
         <img class="mdc-elevation--z13 img-rounded" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-6.jpg" />
       </div>
       
-      <div class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
-        <h6 class="upper">
+      <div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
+        <h6  class="upper">
           Our story
         </h6>
         
-        <h3 class="space-bottom">
+        <h3  class="space-bottom">
           How To Meet That Special Someone
         </h3>
         
-        <p class="space-top">
+        <p  class="space-top">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
         </p>
         
-        <a href="#" class="button read-more link color1 space-top negative-margin">Read more about us <i class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
+        <a  href="#" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded">Read more about us <i  class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
       </div>
     </div>
   </div>
@@ -214,26 +214,26 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="content-25"  style="background-color:#ffffff"  data-label="Content" data-id="content-8-materialis" data-export-id="content-8-materialis" data-category="content" class="content-8m content-section-spacing-large content-section">
-  <div class="gridContainer">
-    <div class="row middle-sm">
-      <div class="col-md-5 col-xs-12 col-sm-6 space-bottom-xs" data-type="column">
-        <h6 class="upper">
+<div  id="content-25" style="background-color: #ffffff;" data-label="Content" data-id="content-8-materialis" data-export-id="content-8-materialis" data-category="content" class="content-8m content-section-spacing-large content-section">
+  <div  class="gridContainer">
+    <div  class="row middle-sm">
+      <div  class="col-md-5 col-xs-12 col-sm-6 space-bottom-xs" data-type="column">
+        <h6  class="upper">
           Our philosophy
         </h6>
         
-        <h3>
+        <h3  class="">
           Protective Preventative Maintenance
         </h3>
         
-        <p class="space-top">
+        <p  class="space-top">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
         </p>
         
-        <a href="#" class="button read-more link color1 space-top negative-margin">Read more <i class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
+        <a  href="#" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded">Read more <i  class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
       </div>
       
-      <div class="col-md-6 col-md-offset-1 col-xs-12 col-sm-6">
+      <div  class="col-md-6 col-md-offset-1 col-xs-12 col-sm-6">
         <img class="mdc-elevation--z9 rounded" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-4.jpg" />
       </div>
     </div>
@@ -244,210 +244,210 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="portfolio-2"  style="background-color:#f5fafd"  data-label="Portfolio" data-id="portfolio-1-materialis" data-export-id="portfolio-1-materialis" data-category="portfolio" class="portfolio-1m content-section">
+<div  id="portfolio-2" style="background-color: #f5fafd;" data-label="Portfolio" data-id="portfolio-1-materialis" data-export-id="portfolio-1-materialis" data-category="portfolio" class="portfolio-1m content-section">
   <div>
-    <div class="row text-center" data-type="row" data-fixed="true">
-      <div class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-        <div class="contentswap-effect " data-hover-fx="portfolio-1">
-          <div class="initial-image">
+    <div  class="row text-center" data-type="row" data-fixed="true">
+      <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+        <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
+          <div  class="initial-image" style="float: none; margin: 0px;">
             <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-1.png" />
           </div>
           
-          <div class="overlay bg-color-black">
+          <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
           </div>
           
-          <div class="swap-inner col-xs-12">
-            <div class="row full-height-row middle-xs">
-              <div class="col-xs-12 text-center white-text">
-                <h4 class="font-500">
+          <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+            <div  class="row full-height-row middle-xs">
+              <div  class="col-xs-12 text-center white-text">
+                <h4  class="font-500">
                   Project Name
                 </h4>
                 
-                <a class="button color-white" href="#">View project</a>
+                <a  class="button color-white mdc-ripple-upgraded" href="#">View project</a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-        <div class="contentswap-effect " data-hover-fx="portfolio-1">
-          <div class="initial-image">
+      <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+        <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
+          <div  class="initial-image" style="float: none; margin: 0px;">
             <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-2.png" />
           </div>
           
-          <div class="overlay bg-color-black">
+          <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
           </div>
           
-          <div class="swap-inner col-xs-12">
-            <div class="row full-height-row middle-xs">
-              <div class="col-xs-12 text-center white-text">
-                <h4 class="font-500">
+          <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+            <div  class="row full-height-row middle-xs">
+              <div  class="col-xs-12 text-center white-text">
+                <h4  class="font-500">
                   Project Name
                 </h4>
                 
-                <a class="button color-white" href="#">View project</a>
+                <a  class="button color-white mdc-ripple-upgraded" href="#">View project</a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-        <div class="contentswap-effect " data-hover-fx="portfolio-1">
-          <div class="initial-image">
+      <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+        <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
+          <div  class="initial-image" style="float: none; margin: 0px;">
             <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-3.png" />
           </div>
           
-          <div class="overlay bg-color-black">
+          <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
           </div>
           
-          <div class="swap-inner col-xs-12">
-            <div class="row full-height-row middle-xs">
-              <div class="col-xs-12 text-center white-text">
-                <h4 class="font-500">
+          <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+            <div  class="row full-height-row middle-xs">
+              <div  class="col-xs-12 text-center white-text">
+                <h4  class="font-500">
                   Project Name
                 </h4>
                 
-                <a class="button color-white" href="#">View project</a>
+                <a  class="button color-white mdc-ripple-upgraded" href="#">View project</a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-        <div class="contentswap-effect " data-hover-fx="portfolio-1">
-          <div class="initial-image">
+      <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+        <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
+          <div  class="initial-image" style="float: none; margin: 0px;">
             <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-4.png" />
           </div>
           
-          <div class="overlay bg-color-black">
+          <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
           </div>
           
-          <div class="swap-inner col-xs-12">
-            <div class="row full-height-row middle-xs">
-              <div class="col-xs-12 text-center white-text">
-                <h4 class="font-500">
+          <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+            <div  class="row full-height-row middle-xs">
+              <div  class="col-xs-12 text-center white-text">
+                <h4  class="font-500">
                   Project Name
                 </h4>
                 
-                <a class="button color-white" href="#">View project</a>
+                <a  class="button color-white mdc-ripple-upgraded" href="#">View project</a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-        <div class="contentswap-effect " data-hover-fx="portfolio-1">
-          <div class="initial-image">
+      <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+        <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
+          <div  class="initial-image" style="float: none; margin: 0px;">
             <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-5.png" />
           </div>
           
-          <div class="overlay bg-color-black">
+          <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
           </div>
           
-          <div class="swap-inner col-xs-12">
-            <div class="row full-height-row middle-xs">
-              <div class="col-xs-12 text-center white-text">
-                <h4 class="font-500">
+          <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+            <div  class="row full-height-row middle-xs">
+              <div  class="col-xs-12 text-center white-text">
+                <h4  class="font-500">
                   Project Name
                 </h4>
                 
-                <a class="button color-white" href="#">View project</a>
+                <a  class="button color-white mdc-ripple-upgraded" href="#">View project</a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-        <div class="contentswap-effect " data-hover-fx="portfolio-1">
-          <div class="initial-image">
+      <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+        <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
+          <div  class="initial-image" style="float: none; margin: 0px;">
             <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-7.png" />
           </div>
           
-          <div class="overlay bg-color-black">
+          <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
           </div>
           
-          <div class="swap-inner col-xs-12">
-            <div class="row full-height-row middle-xs">
-              <div class="col-xs-12 text-center white-text">
-                <h4 class="font-500">
+          <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+            <div  class="row full-height-row middle-xs">
+              <div  class="col-xs-12 text-center white-text">
+                <h4  class="font-500">
                   Project Name
                 </h4>
                 
-                <a class="button color-white" href="#">View project</a>
+                <a  class="button color-white mdc-ripple-upgraded" href="#">View project</a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-        <div class="contentswap-effect " data-hover-fx="portfolio-1">
-          <div class="initial-image">
+      <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+        <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
+          <div  class="initial-image" style="float: none; margin: 0px;">
             <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-6.png" />
           </div>
           
-          <div class="overlay bg-color-black">
+          <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
           </div>
           
-          <div class="swap-inner col-xs-12">
-            <div class="row full-height-row middle-xs">
-              <div class="col-xs-12 text-center white-text">
-                <h4 class="font-500">
+          <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+            <div  class="row full-height-row middle-xs">
+              <div  class="col-xs-12 text-center white-text">
+                <h4  class="font-500">
                   Project Name
                 </h4>
                 
-                <a class="button color-white" href="#">View project</a>
+                <a  class="button color-white mdc-ripple-upgraded" href="#">View project</a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-        <div class="contentswap-effect " data-hover-fx="portfolio-1">
-          <div class="initial-image">
+      <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+        <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
+          <div  class="initial-image" style="float: none; margin: 0px;">
             <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-1.png" />
           </div>
           
-          <div class="overlay bg-color-black">
+          <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
           </div>
           
-          <div class="swap-inner col-xs-12">
-            <div class="row full-height-row middle-xs">
-              <div class="col-xs-12 text-center white-text">
-                <h4 class="font-500">
+          <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+            <div  class="row full-height-row middle-xs">
+              <div  class="col-xs-12 text-center white-text">
+                <h4  class="font-500">
                   Project Name
                 </h4>
                 
-                <a class="button color-white" href="#">View project</a>
+                <a  class="button color-white mdc-ripple-upgraded" href="#">View project</a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
-        <div class="contentswap-effect " data-hover-fx="portfolio-1">
-          <div class="initial-image">
+      <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
+        <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
+          <div  class="initial-image" style="float: none; margin: 0px;">
             <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-4.png" />
           </div>
           
-          <div class="overlay bg-color-black">
+          <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
           </div>
           
-          <div class="swap-inner col-xs-12">
-            <div class="row full-height-row middle-xs">
-              <div class="col-xs-12 text-center white-text">
-                <h4 class="font-500">
+          <div  class="swap-inner col-xs-12" style="display: block; transition: all 800ms ease 0s; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+            <div  class="row full-height-row middle-xs">
+              <div  class="col-xs-12 text-center white-text">
+                <h4  class="font-500">
                   Project Name
                 </h4>
                 
-                <a class="button color-white" href="#">View project</a>
+                <a  class="button color-white mdc-ripple-upgraded" href="#">View project</a>
               </div>
             </div>
           </div>
@@ -461,42 +461,42 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="testimonials-2"  style="background-color:#ffffff"  data-label="Testimonials" data-id="testimonials-1-materialis" data-export-id="testimonials-1-materialis" data-category="testimonials" class="testimonials-1m content-section content-section-spacing">
-  <div class="gridContainer">
-    <div class="row space-bottom-small">
-      <div data-type="column" class="section-title-col">
-        <h2>
+<div  id="testimonials-2" style="background-color: #ffffff;" data-label="Testimonials" data-id="testimonials-1-materialis" data-export-id="testimonials-1-materialis" data-category="testimonials" class="testimonials-1m content-section content-section-spacing">
+  <div  class="gridContainer">
+    <div  class="row space-bottom-small">
+      <div  data-type="column" class="section-title-col">
+        <h2  class="">
           Testimonials
         </h2>
         
-        <p class="lead">
-          Don't take our word for it - here's what our clients say:
+        <p  class="lead">
+          Don’t take our word for it – here’s what our clients say:
         </p>
       </div>
     </div>
     
-    <div class="row spaced-cols content-left-sm" data-type="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="card mdc-elevation--z3 small-padding no-border">
-          <div class="row space-bottom-small">
-            <div class="testimonial-body col-xs-12" data-type="column">
-              <p>
+    <div  class="row spaced-cols content-left-sm" data-type="row">
+      <div  class="col-xs-12 col-sm-4 col-md-4">
+        <div  class="card mdc-elevation--z3 small-padding no-border">
+          <div  class="row space-bottom-small">
+            <div  class="testimonial-body col-xs-12" data-type="column">
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud..
               </p>
             </div>
           </div>
           
-          <div class="row middle-xs f-align">
-            <div class="col-xs-fit col-sm-12 col-md-fit space-bottom-image" data-fixed="true">
+          <div  class="row middle-xs f-align">
+            <div  class="col-xs-fit col-sm-12 col-md-fit space-bottom-image" data-fixed="true">
               <img data-fixed-elevation="true" class="round image-70 mdc-elevation--z3" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/team-8.jpg" />
             </div>
             
-            <div class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
-              <h6 class="font-700">
+            <div  class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
+              <h6  class="font-700">
                 John Doe
               </h6>
               
-              <p class="small font-300">
+              <p  class="small font-300">
                 Company Name
               </p>
             </div>
@@ -504,27 +504,27 @@ post_date: 2020-03-02 09:09:05
         </div>
       </div>
       
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="card mdc-elevation--z3 small-padding no-border">
-          <div class="row space-bottom-small">
-            <div class="testimonial-body col-xs-12" data-type="column">
-              <p>
+      <div  class="col-xs-12 col-sm-4 col-md-4">
+        <div  class="card mdc-elevation--z3 small-padding no-border">
+          <div  class="row space-bottom-small">
+            <div  class="testimonial-body col-xs-12" data-type="column">
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
               </p>
             </div>
           </div>
           
-          <div class="row middle-xs f-align">
-            <div class="col-xs-fit col-sm-12 col-md-fit space-bottom-image" data-fixed="true">
+          <div  class="row middle-xs f-align">
+            <div  class="col-xs-fit col-sm-12 col-md-fit space-bottom-image" data-fixed="true">
               <img data-fixed-elevation="true" class="round image-70 mdc-elevation--z3" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/team-1.jpg" />
             </div>
             
-            <div class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
-              <h6 class="font-700">
+            <div  class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
+              <h6  class="font-700">
                 Lucy Pratt
               </h6>
               
-              <p class="small font-300">
+              <p  class="small font-300">
                 Company name
               </p>
             </div>
@@ -532,27 +532,27 @@ post_date: 2020-03-02 09:09:05
         </div>
       </div>
       
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="card mdc-elevation--z3 small-padding no-border">
-          <div class="row space-bottom-small">
-            <div class="testimonial-body col-xs-12" data-type="column">
-              <p>
+      <div  class="col-xs-12 col-sm-4 col-md-4">
+        <div  class="card mdc-elevation--z3 small-padding no-border">
+          <div  class="row space-bottom-small">
+            <div  class="testimonial-body col-xs-12" data-type="column">
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
               </p>
             </div>
           </div>
           
-          <div class="row middle-xs f-align">
-            <div class="col-xs-fit col-sm-12 col-md-fit space-bottom-image" data-fixed="true">
+          <div  class="row middle-xs f-align">
+            <div  class="col-xs-fit col-sm-12 col-md-fit space-bottom-image" data-fixed="true">
               <img data-fixed-elevation="true" class="round image-70 mdc-elevation--z3" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/team-7.jpg" />
             </div>
             
-            <div class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
-              <h6 class="font-700">
+            <div  class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
+              <h6  class="font-700">
                 John Doe
               </h6>
               
-              <p class="small font-300">
+              <p  class="small font-300">
                 Company name
               </p>
             </div>
@@ -567,20 +567,20 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="cta-1"  style="background-color:#f5fafd"  data-label="Cta" data-id="cta-1-materialis" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" data-section-ov="1" data-parallax-depth="20">
-  <div class="gridContainer">
-    <div class="row text-center col-sm-padding-medium">
-      <div class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 card mdc-elevation--z3 box-padding-lr-small">
-        <div data-type="column" class="">
-          <h2 class="">
+<div  id="cta-1" style="background-color: #f5fafd;" data-label="Cta" data-id="cta-1-materialis" data-export-id="cta-1-materialis" data-category="cta" class="content-relative content-section content-section-spacing-large cta-1-materialis section-title-col-white-text" data-section-ov="1" data-parallax-depth="20">
+  <div  class="gridContainer">
+    <div  class="row text-center col-sm-padding-medium">
+      <div  class="col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 card mdc-elevation--z3 box-padding-lr-small">
+        <div  data-type="column" class="">
+          <h2  class="">
             Download now
           </h2>
           
-          <p class="">
+          <p  class="">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
           </p>
           
-          <a class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded">START NOW</a>
+          <a  class="button big color1 mdc-elevation--z1 mdc-ripple-upgraded">START NOW</a>
         </div>
       </div>
     </div>
@@ -591,135 +591,135 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="team-7"  style="background-color:#ffffff"  data-label="Team" data-id="team-8-materialis" data-export-id="team-8-materialis" data-category="team" class="team-8m content-section content-section-spacing-large">
-  <div class="gridContainer">
-    <div class="row space-bottom">
-      <div class="section-title-col" data-type="column">
-        <h2>
+<div  id="team-7" style="background-color: #ffffff;" data-label="Team" data-id="team-8-materialis" data-export-id="team-8-materialis" data-category="team" class="team-8m content-section content-section-spacing-large">
+  <div  class="gridContainer">
+    <div  class="row space-bottom">
+      <div  class="section-title-col" data-type="column">
+        <h2  class="">
           Our Team
         </h2>
         
-        <p class="lead">
+        <p  class="lead">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
         </p>
       </div>
     </div>
     
-    <div class="row spaced-cols content-left-sm" data-type="row" data-max-items="4">
-      <div class="col-xs-12 col-sm-12 col-md-6">
-        <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-6">
-            <div class="card mdc-elevation--z3 no-radius image-holder" data-fixed="true">
+    <div  class="row spaced-cols content-left-sm" data-type="row" data-max-items="4">
+      <div  class="col-xs-12 col-sm-12 col-md-6">
+        <div  class="row">
+          <div  class="col-xs-12 col-sm-6 col-md-6">
+            <div  class="card mdc-elevation--z3 no-radius image-holder" data-fixed="true">
               <img class="face no-margin-bottom" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/team-4.jpg" />
             </div>
           </div>
           
-          <div class="col-xs-12 col-sm-6 col-md-6 right-col">
-            <div data-type="column" class="description-container use-section-text-color">
-              <h4 class="no-margin-bottom">
+          <div  class="col-xs-12 col-sm-6 col-md-6 right-col">
+            <div  data-type="column" class="description-container use-section-text-color">
+              <h4  class="no-margin-bottom">
                 Team Member
               </h4>
               
-              <p class="font-300">
+              <p  class="font-300">
                 Job Title
               </p>
               
-              <p>
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
               
-              <div class="social-icons-group col-no-padding" data-type="group">
-                <a href="#"><i class="mdi mdi-facebook social-icon "></i></a> <a href="#"><i class="mdi mdi-twitter social-icon "></i></a> <a href="#"><i class="mdi mdi-instagram social-icon "></i></a> <a href="#"><i class="mdi mdi-rss social-icon "></i></a>
+              <div  class="social-icons-group col-no-padding" data-type="group">
+                <a  href="#"><i  class="mdi mdi-facebook social-icon"></i></a> <a  href="#"><i  class="mdi mdi-twitter social-icon"></i></a> <a  href="#"><i  class="mdi mdi-instagram social-icon"></i></a> <a  href="#"><i  class="mdi mdi-rss social-icon"></i></a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-xs-12 col-sm-12 col-md-6">
-        <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-6">
-            <div class="card mdc-elevation--z3 no-radius image-holder" data-fixed="true">
+      <div  class="col-xs-12 col-sm-12 col-md-6">
+        <div  class="row">
+          <div  class="col-xs-12 col-sm-6 col-md-6">
+            <div  class="card mdc-elevation--z3 no-radius image-holder" data-fixed="true">
               <img class="face no-margin-bottom" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/team-2.jpg" />
             </div>
           </div>
           
-          <div class="col-xs-12 col-sm-6 col-md-6 right-col">
-            <div data-type="column" class="description-container use-section-text-color">
-              <h4 class="no-margin-bottom">
+          <div  class="col-xs-12 col-sm-6 col-md-6 right-col">
+            <div  data-type="column" class="description-container use-section-text-color">
+              <h4  class="no-margin-bottom">
                 Team Member
               </h4>
               
-              <p class="font-300">
+              <p  class="font-300">
                 Job Title
               </p>
               
-              <p>
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
               
-              <div class="social-icons-group col-no-padding" data-type="group">
-                <a href="#"><i class="mdi mdi-facebook social-icon "></i></a> <a href="#"><i class="mdi mdi-twitter social-icon "></i></a> <a href="#"><i class="mdi mdi-instagram social-icon "></i></a> <a href="#"><i class="mdi mdi-rss social-icon "></i></a>
+              <div  class="social-icons-group col-no-padding" data-type="group">
+                <a  href="#"><i  class="mdi mdi-facebook social-icon"></i></a> <a  href="#"><i  class="mdi mdi-twitter social-icon"></i></a> <a  href="#"><i  class="mdi mdi-instagram social-icon"></i></a> <a  href="#"><i  class="mdi mdi-rss social-icon"></i></a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-xs-12 col-sm-12 col-md-6">
-        <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-6">
-            <div class="card mdc-elevation--z3 no-radius image-holder" data-fixed="true">
+      <div  class="col-xs-12 col-sm-12 col-md-6">
+        <div  class="row">
+          <div  class="col-xs-12 col-sm-6 col-md-6">
+            <div  class="card mdc-elevation--z3 no-radius image-holder" data-fixed="true">
               <img class="face no-margin-bottom" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/team-6.jpg" />
             </div>
           </div>
           
-          <div class="col-xs-12 col-sm-6 col-md-6 right-col">
-            <div data-type="column" class="description-container use-section-text-color">
-              <h4 class="no-margin-bottom">
+          <div  class="col-xs-12 col-sm-6 col-md-6 right-col">
+            <div  data-type="column" class="description-container use-section-text-color">
+              <h4  class="no-margin-bottom">
                 Team Member
               </h4>
               
-              <p class="font-300">
+              <p  class="font-300">
                 Job Title
               </p>
               
-              <p>
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
               
-              <div class="social-icons-group col-no-padding" data-type="group">
-                <a href="#"><i class="mdi mdi-facebook social-icon "></i></a> <a href="#"><i class="mdi mdi-twitter social-icon "></i></a> <a href="#"><i class="mdi mdi-instagram social-icon "></i></a> <a href="#"><i class="mdi mdi-rss social-icon "></i></a>
+              <div  class="social-icons-group col-no-padding" data-type="group">
+                <a  href="#"><i  class="mdi mdi-facebook social-icon"></i></a> <a  href="#"><i  class="mdi mdi-twitter social-icon"></i></a> <a  href="#"><i  class="mdi mdi-instagram social-icon"></i></a> <a  href="#"><i  class="mdi mdi-rss social-icon"></i></a>
               </div>
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-xs-12 col-sm-12 col-md-6">
-        <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-6">
-            <div class="card mdc-elevation--z3 no-radius image-holder" data-fixed="true">
+      <div  class="col-xs-12 col-sm-12 col-md-6">
+        <div  class="row">
+          <div  class="col-xs-12 col-sm-6 col-md-6">
+            <div  class="card mdc-elevation--z3 no-radius image-holder" data-fixed="true">
               <img class="face no-margin-bottom" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/team-8.jpg" />
             </div>
           </div>
           
-          <div class="col-xs-12 col-sm-6 col-md-6 right-col">
-            <div data-type="column" class="description-container use-section-text-color">
-              <h4 class="no-margin-bottom">
+          <div  class="col-xs-12 col-sm-6 col-md-6 right-col">
+            <div  data-type="column" class="description-container use-section-text-color">
+              <h4  class="no-margin-bottom">
                 Team Member
               </h4>
               
-              <p class="font-300">
+              <p  class="font-300">
                 Job Title
               </p>
               
-              <p>
+              <p  class="">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
               
-              <div class="social-icons-group col-no-padding" data-type="group">
-                <a href="#"><i class="mdi mdi-facebook social-icon "></i></a> <a href="#"><i class="mdi mdi-twitter social-icon "></i></a> <a href="#"><i class="mdi mdi-instagram social-icon "></i></a> <a href="#"><i class="mdi mdi-rss social-icon "></i></a>
+              <div  class="social-icons-group col-no-padding" data-type="group">
+                <a  href="#"><i  class="mdi mdi-facebook social-icon"></i></a> <a  href="#"><i  class="mdi mdi-twitter social-icon"></i></a> <a  href="#"><i  class="mdi mdi-instagram social-icon"></i></a> <a  href="#"><i  class="mdi mdi-rss social-icon"></i></a>
               </div>
             </div>
           </div>
@@ -733,29 +733,29 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="latest-news-1"  style="background-color:#f5fafd"  data-label="Latest-news" data-id="latest-news-1-materialis" data-export-id="latest-news-1-materialis" data-category="latest_news" class="latest-news-1-materialis content-section content-section-spacing-large">
-  <div class="gridContainer">
-    <div class="row">
-      <div data-type="column" class="section-title-col">
-        <h2>
+<div  id="latest-news-1" style="background-color: #f5fafd;" data-label="Latest-news" data-id="latest-news-1-materialis" data-export-id="latest-news-1-materialis" data-category="latest_news" class="latest-news-1-materialis content-section content-section-spacing-large">
+  <div  class="gridContainer">
+    <div  class="row">
+      <div  data-type="column" class="section-title-col">
+        <h2  class="">
           Latest News
         </h2>
         
-        <p class="lead">
+        <p  class="lead">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </p>
       </div>
     </div>
     
-    <div class="row content-left-sm">
-      <div data-type="row" data-dynamic-columns="handled" data-content-shortcode="materialis_latest_news" data-max-items="4">
+    <div  class="row content-left-sm">
+      <div  data-type="row" data-dynamic-columns="handled" data-content-shortcode="materialis_latest_news" data-max-items="4">
         [materialis_latest_news]
       </div>
     </div>
     
-    <div class="row">
-      <div class="col-xs-12 text-center">
-        <a class="button big color1 mdc-elevation--z3" data-attr-shortcode="href:materialis_blog_link" href="[materialis_blog_link]">VISIT OUR BLOG</a>
+    <div  class="row">
+      <div  class="col-xs-12 text-center">
+        <a  class="button big color1 mdc-elevation--z3 mdc-ripple-upgraded" data-attr-shortcode="href:materialis_blog_link" href="[materialis_blog_link]">VISIT OUR BLOG</a>
       </div>
     </div>
   </div>
@@ -765,24 +765,24 @@ post_date: 2020-03-02 09:09:05
 
 <!-- wp:extendstudio/materialis -->
 
-<div id="contact-1"  data-label="Contact" data-id="contact-1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing-large content-relative white-text" data-parallax-depth="20">
-  <div class="gridContainer">
-    <div class="row text-center">
-      <div class="section-title-col" data-type="column">
-        <h2>
+<div  id="contact-1" data-label="Contact" data-id="contact-1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing-large content-relative white-text" data-parallax-depth="20">
+  <div  class="gridContainer">
+    <div  class="row text-center">
+      <div  class="section-title-col" data-type="column">
+        <h2  class="">
           Contact us
         </h2>
         
-        <p class="lead">
+        <p  class="lead">
           With the Internet spreading linke wildfire and reaching every part of our daily life, more and more traffic is directed to websites in search for information.
         </p>
       </div>
     </div>
     
-    <div class="row text-center">
-      <div class="col-xs-12 col-sm-8 col-sm-offset-2 contact-form-wrapper inline-info">
-        <div class="card mdc-elevation--z3 col-padding-top">
-          <div class="dark-text" data-content-shortcode="materialis_contact_form" data-editable="true">
+    <div  class="row text-center">
+      <div  class="col-xs-12 col-sm-8 col-sm-offset-2 contact-form-wrapper inline-info">
+        <div  class="card mdc-elevation--z3 col-padding-top">
+          <div  class="dark-text" data-content-shortcode="materialis_contact_form" data-editable="true">
             [materialis_contact_form]
           </div>
         </div>
