@@ -66,7 +66,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                Accès direct à l’ensemble de la documentation RGM <br /><br /><br /> <br />
+                Accès direct à l’ensemble de la documentation RGM <br /><br /><br />
               </p>
             </div>
           </div>
