@@ -129,48 +129,48 @@ post_date: 2020-03-02 09:09:05
         <div  class="row space-top spaced-cols content-center-sm" data-type="row" data-max-items="4">
           <div  class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
             <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
-                Popular Uses Of The Internet
+              <i  class="mdi icon color1 mdi-alarm-light normal-shape big"></i> <h6  class="">
+                Gestion des Disponibilités
               </h6>
             </div>
           </div>
           
           <div  class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
             <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
-                How To Meet That Special
+              <i  class="mdi icon color1 mdi-account-search normal-shape big"></i> <h6  class="">
+                Gestion des Évènements
               </h6>
             </div>
           </div>
           
           <div  class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
             <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
-                Make Myspace Your Best
+              <i  class="mdi icon color1 mdi-account-card-details normal-shape big"></i> <h6  class="">
+                Gestion des Capacités
               </h6>
             </div>
           </div>
           
           <div  class="col-xs-10 col-md-4 col-sm-6 col-sm-offset-0 col-xs-offset-1">
             <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
-                Make Myspace Your Best
+              <i  class="mdi icon color1 mdi-alert-box normal-shape big"></i> <h6  class="">
+                Alerting
               </h6>
             </div>
           </div>
           
           <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
             <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
-                Make Myspace Your Best
+              <i  class="mdi icon color1 mdi-airplay normal-shape big"></i> <h6  class="">
+                Dashboard
               </h6>
             </div>
           </div>
           
           <div  class="col-md-4 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
             <div  class="card no-radius mdc-elevation--z1 y-move bg-color-white padding-24 bordered" data-type="column">
-              <i  class="mdi icon mdi-database big round reverse color1"></i> <h6  class="">
-                Make Myspace Your Best
+              <i  class="mdi icon color1 mdi-account-card-details normal-shape big"></i> <h6  class="">
+                Reporting
               </h6>
             </div>
           </div>
