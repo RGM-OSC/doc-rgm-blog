@@ -526,7 +526,7 @@ post_date: 2020-03-02 09:09:05
     
     <div  class="row">
       <div  class="col-xs-12 text-center">
-        <a  class="button big color1 mdc-elevation--z3 mdc-ripple-upgraded" data-attr-shortcode="href:materialis_blog_link" href="[materialis_blog_link]">VISIT OUR BLOG</a>
+        <a  class="button big color1 mdc-elevation--z3 mdc-ripple-upgraded" data-attr-shortcode="href:materialis_blog_link" href="[materialis_blog_link]">VISITER LE SITE OFFICIEL</a>
       </div>
     </div>
   </div>
@@ -541,7 +541,7 @@ post_date: 2020-03-02 09:09:05
     <div  class="row text-center">
       <div  class="section-title-col" data-type="column">
         <h2  class="">
-          Contact us
+          Contactez-nous
         </h2>
         
         <p  class="lead">
