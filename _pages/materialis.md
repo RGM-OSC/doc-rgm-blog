@@ -193,7 +193,7 @@ post_date: 2020-03-02 09:09:05
       
       <div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
         <h6  class="upper">
-          RGM, le begining…
+          RGM au commencement...
         </h6>
         
         <h3  class="space-bottom">
