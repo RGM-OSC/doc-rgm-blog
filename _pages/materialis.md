@@ -46,7 +46,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                Retrouvez ici une galerie complète des différents tableaux de bord et cartes disponibles avec RGM <br />
+                Retrouvez ici une galerie complète des différents tableaux de bord et cartes disponibles avec RGM <br /> <br />
               </p>
             </div>
           </div>
