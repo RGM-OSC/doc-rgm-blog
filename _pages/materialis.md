@@ -493,7 +493,6 @@ post_date: 2020-03-02 09:09:05
             
             <div  class="col-xs-fit col-sm-12 col-md-fit info no-padding-left" data-type="column">
               <h6  class="font-700">
-                John Doe
               </h6>
               
               <p  class="small font-300">
@@ -596,7 +595,7 @@ post_date: 2020-03-02 09:09:05
     <div  class="row space-bottom">
       <div  class="section-title-col" data-type="column">
         <h2  class="">
-          Our Team
+          La "Core Team" RGM
         </h2>
         
         <p  class="lead">
