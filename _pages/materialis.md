@@ -188,7 +188,7 @@ post_date: 2020-03-02 09:09:05
   <div  class="gridContainer">
     <div  class="row middle-sm">
       <div  class="col-md-6 col-xs-12 col-sm-6 col-padding-small-xs">
-        <img class="mdc-elevation--z13 img-rounded" src="https://blog.rgm-cloud.io/wp-content/uploads/2019/12/logo_rgm_small.png" />
+        <img class="mdc-elevation--z13 img-rounded" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-ensemble_rgm.png" />
       </div>
       
       <div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
