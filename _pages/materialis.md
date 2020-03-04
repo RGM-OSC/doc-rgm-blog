@@ -96,7 +96,7 @@ post_date: 2020-03-02 09:09:05
           Les « Ops » ont de la visibilité sur l’infrastructure <br /> « On-permise et Cloud ». <br />Les « Devs » peuvent ajouter leurs métriques et mesurer ce qui a de la valeur : Codes HTTP, latence par page, déploiements d’application… <br />
         </p>
         
-        <a  class="button big color1 mdc-ripple-upgraded" href="#http://rgm-cloud.fr" target="_self" data-cp-link="1">GET STARTED NOW</a>
+        <a  class="button big color1 mdc-ripple-upgraded" href="http://rgm-cloud.fr" target="_blank" data-cp-link="1">GET STARTED NOW</a>
       </div>
       
       <div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom">
@@ -193,7 +193,7 @@ post_date: 2020-03-02 09:09:05
       
       <div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
         <h6  class="upper">
-          RGM, le begining...
+          RGM, le begining…
         </h6>
         
         <h3  class="space-bottom">
@@ -201,7 +201,7 @@ post_date: 2020-03-02 09:09:05
         </h3>
         
         <p  class="space-top">
-          RGM est issue d'une équipe d’ingénieurs passionnés d’Opensource et engagés dans des communautés telles que des modules du noyau Linux ou encore des distributions Linux qui ont été mis au contact d’une équipe experte en supervision et en méthodologie ITIL et AGILE.  <br />En Septembre 2019 est né RGM au prix d'un effort proche de 13 000 heures de développement sans compter nos travaux et recherche sur l’IA...
+          RGM est issue d’une équipe d’ingénieurs passionnés d’Opensource et engagés dans des communautés telles que des modules du noyau Linux ou encore des distributions Linux qui ont été mis au contact d’une équipe experte en supervision et en méthodologie ITIL et AGILE.  <br />En Septembre 2019 est né RGM au prix d’un effort proche de 13 000 heures de développement sans compter nos travaux et recherche sur l’IA…
         </p>
         
         <a  href="#" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1">En savoir plus sur la communauté RGM<i  class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
