@@ -115,7 +115,7 @@ post_date: 2020-03-02 09:09:05
     <div  class="row">
       <div  class="section-title-col" data-type="column">
         <h2  class="">
-          The Main Features
+          Les principales fonctionalités
         </h2>
         
         <p  class="">
