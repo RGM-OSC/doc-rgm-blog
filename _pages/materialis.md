@@ -388,7 +388,7 @@ post_date: 2020-03-02 09:09:05
           <div  class="col-xs-12 col-sm-6 col-md-6 right-col">
             <div  data-type="column" class="description-container use-section-text-color">
               <h4  class="no-margin-bottom">
-                Team Member
+                Michael AUBERTIN
               </h4>
               
               <p  class="font-300">
@@ -418,7 +418,7 @@ post_date: 2020-03-02 09:09:05
           <div  class="col-xs-12 col-sm-6 col-md-6 right-col">
             <div  data-type="column" class="description-container use-section-text-color">
               <h4  class="no-margin-bottom">
-                Team Member
+                Eric BELHOMME
               </h4>
               
               <p  class="font-300">
@@ -448,7 +448,7 @@ post_date: 2020-03-02 09:09:05
           <div  class="col-xs-12 col-sm-6 col-md-6 right-col">
             <div  data-type="column" class="description-container use-section-text-color">
               <h4  class="no-margin-bottom">
-                Team Member
+                Guillaume AUGEY
               </h4>
               
               <p  class="font-300">
@@ -478,7 +478,7 @@ post_date: 2020-03-02 09:09:05
           <div  class="col-xs-12 col-sm-6 col-md-6 right-col">
             <div  data-type="column" class="description-container use-section-text-color">
               <h4  class="no-margin-bottom">
-                Team Member
+                Samuel RONCIAUX
               </h4>
               
               <p  class="font-300">
