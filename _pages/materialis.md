@@ -89,7 +89,7 @@ post_date: 2020-03-02 09:09:05
         </h5>
         
         <h2  class="">
-          Enjoy the best <br /><span  style="font-family: Playfair Display,sans-serif; font-weight: bold; font-style: italic;" href="#">Prenez le meilleur </span>взять лучшее
+          Enjoy the best <br /><span  style="font-family: Playfair Display,sans-serif; font-weight: bold; font-style: italic;" href="#">Vivez le meilleur </span>взять лучшее
         </h2>
         
         <p  class="">
