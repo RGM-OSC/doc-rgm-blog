@@ -46,7 +46,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                Retrouvez ici une galerie complète des différents tableaux de bord et cartes disponibles avec RGM <br /> <br />
+                Retrouvez ici une galerie complète des différents tableaux de bord et cartes disponibles avec RGM <br />
               </p>
             </div>
           </div>
@@ -119,7 +119,7 @@ post_date: 2020-03-02 09:09:05
         </h2>
         
         <p  class="">
-          La solution RGM a pour vocation de détecter les incidents, mais aussi de les anticiper pour éviter tout arrêt de service.
+          La solution RGM a pour vocation de détecter les incidents, <br />mais aussi de les anticiper pour éviter tout arrêt de service.
         </p>
       </div>
     </div>
