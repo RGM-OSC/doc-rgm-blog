@@ -220,7 +220,7 @@ post_date: 2020-03-02 09:09:05
       <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
         <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
           <div  class="initial-image" style="float: none; margin: 0px;">
-            <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-disp_esx-2.png" />
+            <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-disp_esx-3.png" />
           </div>
           
           <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
@@ -289,7 +289,7 @@ post_date: 2020-03-02 09:09:05
       <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
         <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
           <div  class="initial-image" style="float: none; margin: 0px;">
-            <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-tbd_system_metrics_2.png" />
+            <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-ged_event.png" />
           </div>
           
           <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
@@ -299,7 +299,7 @@ post_date: 2020-03-02 09:09:05
             <div  class="row full-height-row middle-xs">
               <div  class="col-xs-12 text-center white-text">
                 <h4  class="font-500">
-                  Alerting
+                  Gestion des Alertes
                 </h4>
                 
                 <a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1">Voir les images</a>
@@ -312,7 +312,7 @@ post_date: 2020-03-02 09:09:05
       <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
         <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
           <div  class="initial-image" style="float: none; margin: 0px;">
-            <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-5.png" />
+            <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-rgm_back_1.png" />
           </div>
           
           <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
@@ -322,7 +322,7 @@ post_date: 2020-03-02 09:09:05
             <div  class="row full-height-row middle-xs">
               <div  class="col-xs-12 text-center white-text">
                 <h4  class="font-500">
-                  Project Name
+                  Tableaux de bord
                 </h4>
                 
                 <a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1">Voir les images</a>
@@ -335,7 +335,7 @@ post_date: 2020-03-02 09:09:05
       <div  class="col-md-4 col-sm-6 col-xs-12 no-gutter-col">
         <div  class="contentswap-effect contentswap-overlay" data-hover-fx="portfolio-1" style="float: none; margin: 0px; width: 100%;">
           <div  class="initial-image" style="float: none; margin: 0px;">
-            <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-7.png" />
+            <img data-size="600x354" src="https://blog.rgm-cloud.io/wp-content/uploads/2020/03/cropped-rgmr1-2.png" />
           </div>
           
           <div  class="overlay bg-color-black" style="display: block; transition: opacity 800ms ease 0s; -webkit-transition-timing-function: ease; -moz-transition-timing-function: ease; -o-transition-timing-function: ease; transition-timing-function: ease;">
@@ -345,7 +345,7 @@ post_date: 2020-03-02 09:09:05
             <div  class="row full-height-row middle-xs">
               <div  class="col-xs-12 text-center white-text">
                 <h4  class="font-500">
-                  Project Name
+                  Reporting
                 </h4>
                 
                 <a  class="button color-white mdc-ripple-upgraded" href="#" target="_self" data-cp-link="1">Voir les images</a>
