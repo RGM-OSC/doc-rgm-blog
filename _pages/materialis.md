@@ -46,7 +46,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                Retrouvez ici une galerie complète des différents tableaux de bord et cartes disponibles avec RGM <br />
+                Retrouvez ici une galerie complète des différents tableaux de bord et cartes disponibles avec RGM <br /> <br />
               </p>
             </div>
           </div>
@@ -66,7 +66,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                Accès direct à l’ensemble de la documentation RGM <br /><br /> <br />
+                Accès direct à l’ensemble de la documentation RGM <br /><br /><br /> <br />
               </p>
             </div>
           </div>
@@ -205,36 +205,6 @@ post_date: 2020-03-02 09:09:05
         </p>
         
         <a  href="#" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1">En savoir plus sur la communauté RGM<i  class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- /wp:extendstudio/materialis -->
-
-<!-- wp:extendstudio/materialis -->
-
-<div  id="content-25" style="background-color: #ffffff;" data-label="Content" data-id="content-8-materialis" data-export-id="content-8-materialis" data-category="content" class="content-8m content-section-spacing-large content-section">
-  <div  class="gridContainer">
-    <div  class="row middle-sm">
-      <div  class="col-md-5 col-xs-12 col-sm-6 space-bottom-xs" data-type="column">
-        <h6  class="upper">
-          Our philosophy
-        </h6>
-        
-        <h3  class="">
-          Protective Preventative Maintenance
-        </h3>
-        
-        <p  class="space-top">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
-        </p>
-        
-        <a  href="#" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded">Read more <i  class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
-      </div>
-      
-      <div  class="col-md-6 col-md-offset-1 col-xs-12 col-sm-6">
-        <img class="mdc-elevation--z9 rounded" src="https://blog.rgm-cloud.io/wp-content/plugins/materialis-companion/theme-data/materialis/sections/images/image-4.jpg" />
       </div>
     </div>
   </div>
