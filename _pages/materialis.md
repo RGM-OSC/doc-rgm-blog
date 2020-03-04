@@ -119,7 +119,7 @@ post_date: 2020-03-02 09:09:05
         </h2>
         
         <p  class="">
-          La solution RGM a pour vocation de détecter les incidents, <br />mais aussi de les anticiper pour éviter tout arrêt de service.
+          La solution RGM a pour vocation de détecter les incidents, <br />mais aussi de les anticiper pour éviter tout arrêt de service
         </p>
       </div>
     </div>
