@@ -201,7 +201,7 @@ post_date: 2020-03-02 09:09:05
         </h3>
         
         <p  class="space-top">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+          RGM est issue d'une équipe d’ingénieurs passionnés d’Opensource et engagés dans des communautés telles que des modules du noyau Linux ou encore des distributions Linux qui ont été mis au contact d’une équipe experte en supervision et en méthodologie ITIL.
         </p>
         
         <a  href="#" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded">Read more about us <i  class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
