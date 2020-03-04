@@ -46,7 +46,7 @@ post_date: 2020-03-02 09:09:05
               </h4>
               
               <p  class="">
-                Retrouvez ici une galerie complète des différents tableaux de bord et cartes disponibles avec RGM <br /> <br />
+                Retrouvez ici une galerie complète des différents tableaux de bord et cartes disponibles avec RGM <br />
               </p>
             </div>
           </div>
@@ -193,7 +193,7 @@ post_date: 2020-03-02 09:09:05
       
       <div  class="col-md-5 col-md-offset-1 col-xs-12 col-sm-6 content-left-sm col-padding-small-xs" data-type="column">
         <h6  class="upper">
-          RGM au commencement...
+          RGM au commencement…
         </h6>
         
         <h3  class="space-bottom">
@@ -595,7 +595,7 @@ post_date: 2020-03-02 09:09:05
     <div  class="row space-bottom">
       <div  class="section-title-col" data-type="column">
         <h2  class="">
-          La "Core Team" RGM
+          La « Core Team » RGM
         </h2>
         
         <p  class="lead">
