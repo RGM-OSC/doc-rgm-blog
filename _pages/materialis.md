@@ -96,7 +96,7 @@ post_date: 2020-03-02 09:09:05
           Les « Ops » ont de la visibilité sur l’infrastructure <br /> « On-permise et Cloud ». <br />Les « Devs » peuvent ajouter leurs métriques et mesurer ce qui a de la valeur : Codes HTTP, latence par page, déploiements d’application… <br />
         </p>
         
-        <a  class="button big color1 mdc-ripple-upgraded" href="#">GET STARTED NOW</a>
+        <a  class="button big color1 mdc-ripple-upgraded" href="#http://rgm-cloud.fr" target="_self" data-cp-link="1">GET STARTED NOW</a>
       </div>
       
       <div  class="col-sm-7 flexbox center-xs middle-xs image-group-2-img padding-top-bottom">
