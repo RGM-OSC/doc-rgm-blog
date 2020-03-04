@@ -197,14 +197,14 @@ post_date: 2020-03-02 09:09:05
         </h6>
         
         <h3  class="space-bottom">
-          How To Meet That Special Someone
+          une volonté de construire un ensemble Opensource orienté Hypervision
         </h3>
         
         <p  class="space-top">
-          RGM est issue d'une équipe d’ingénieurs passionnés d’Opensource et engagés dans des communautés telles que des modules du noyau Linux ou encore des distributions Linux qui ont été mis au contact d’une équipe experte en supervision et en méthodologie ITIL.
+          RGM est issue d'une équipe d’ingénieurs passionnés d’Opensource et engagés dans des communautés telles que des modules du noyau Linux ou encore des distributions Linux qui ont été mis au contact d’une équipe experte en supervision et en méthodologie ITIL et AGILE.  <br />En Septembre 2019 est né RGM au prix d'un effort proche de 13 000 heures de développement sans compter nos travaux et recherche sur l’IA...
         </p>
         
-        <a  href="#" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded">Read more about us <i  class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
+        <a  href="#" class="button read-more link color1 space-top negative-margin mdc-ripple-upgraded" target="_self" data-cp-link="1">En savoir plus sur la communauté RGM<i  class="mdi mdi-arrow-right-thick read-more-icon"></i></a>
       </div>
     </div>
   </div>
